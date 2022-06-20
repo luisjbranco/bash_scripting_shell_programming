@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 FILE="/etc/shadow"
 
 if [ -e "$FILE" ]
